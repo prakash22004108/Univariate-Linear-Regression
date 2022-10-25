@@ -36,7 +36,7 @@ Y_pred=m*X+c
 ```
 ## sample in put
 
-![output](./i2.png)
+![output](./i1.png)
 
 ## output 
 ![output](./out1.png)
